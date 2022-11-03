@@ -10,7 +10,7 @@ bypass website filters for your school
 <img src="https://i.imgur.com/AOTTcP5.png"> </img>
 
 # Install
-*Since we are waiting to add to chrome extention store, you have to build the app yourself*
+*chrome app support dropped 2022 / ctx file <a href="https://github.com/l4tt/Bypass-browser/blob/main/BypassBrowser.crx"> Download</a>*
 
 ```
 sudo apt install grunt-cli 
